@@ -1,6 +1,6 @@
 # Joke Teller
 
-It tells you programming jokes using the text-to-speech API([VoiceRSS](http://www.voicerss.org/)).
+It tells you programming jokes using the text-to-speech API([VoiceRSS](http://www.voicerss.org/)). HTML, SCSS and Vanilla Javascript were used.
 
 If you want to run this project, you need modify `tellMe()` function in `js/script.js`. Get VoiceRSS API key and add it to `tellMe()` function.
 
